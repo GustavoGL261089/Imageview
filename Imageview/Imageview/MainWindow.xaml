@@ -6,7 +6,5 @@
         xmlns:local="clr-namespace:Imageview"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Image x:Name="image" HorizontalAlignment="Left" Height="300" Margin="28,10,-31,0" VerticalAlignment="Top" Width="520" Source="http://www.tecnologicoedupraxis.com/wp-content/uploads/2016/11/Marketing-Digital-Tecnol%C3%B3gico-Edupraxis1.jpg"/>
-    </Grid>
+    <Grid/>
 </Window>
