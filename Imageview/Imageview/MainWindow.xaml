@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Image x:Name="image" HorizontalAlignment="Left" Height="140" Margin="28,10,0,0" VerticalAlignment="Top" Width="161" Source="http://www.tecnologicoedupraxis.com/wp-content/uploads/2016/11/Marketing-Digital-Tecnol%C3%B3gico-Edupraxis1.jpg"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="145" Margin="10,10,0,0" VerticalAlignment="Top" Width="203" Source="http://www.tecnologicoedupraxis.com/wp-content/uploads/2016/11/Marketing-Digital-Tecnol%C3%B3gico-Edupraxis1.jpg"/>
     </Grid>
 </Window>
