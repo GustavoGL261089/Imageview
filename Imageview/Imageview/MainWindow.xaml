@@ -9,5 +9,6 @@
     <Grid>
         <Image x:Name="image" HorizontalAlignment="Left" Height="145" Margin="10,10,0,0" VerticalAlignment="Top" Width="203" Source="http://www.tecnologicoedupraxis.com/wp-content/uploads/2016/11/Marketing-Digital-Tecnol%C3%B3gico-Edupraxis1.jpg"/>
         <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="43,198,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Margin="43,253,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
